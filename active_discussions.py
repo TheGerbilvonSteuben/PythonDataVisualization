@@ -57,7 +57,7 @@ data = [{'type': 'bar',
              'line': {'width': 1.5, 'color': 'rgb(25,25,25)'}
          }, 'opacity': 0.6,
          }]
-my_layout = {'title': 'highest commented stories - Hacker News',
+my_layout = {'title': 'Highest Commented Stories - Hacker News',
              'titlefont': {'size': 28},
              'xaxis': {
                  'titlefont': {'size': 24},
